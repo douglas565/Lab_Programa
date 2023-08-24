@@ -1,0 +1,18 @@
+int 
+float 
+char
+
+
+int var 
+Var=37;
+37 -> decimal
+  037--> forma octal
+0b010101101-->forma binaria
+0xFFF--> base hexadecimal
+
+'A'--->relacionado com o códico do caracter
+  Var='A'+1;
+  Var=66
+    pode se imprimir com %d %x %o %c
+
+    
